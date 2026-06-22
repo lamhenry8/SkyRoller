@@ -14,5 +14,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GameScene.unity
     guid: df8d9f7386431704d97c9d8f3d1fb2f9
+  - enabled: 1
+    path: Assets/Scenes/LoseMenu.unity
+    guid: 3462eabb3dc0b7e46b44d76d18db26f0
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
